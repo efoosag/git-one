@@ -1,2 +1,1 @@
-console.log("Feature-B
-")
+console.log("Feature-B")
